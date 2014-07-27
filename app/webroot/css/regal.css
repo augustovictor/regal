@@ -1,0 +1,190 @@
+/******************** TAGS ********************/
+/**********************************************/
+
+html, body {
+	margin-top: 30px;
+	height: 100%;
+}
+
+a:hover {
+	color: #9C9C9C;
+}
+
+/******************** #IDS# ********************/
+/***********************************************/
+
+#carousel-example-generic img {
+	height: 400px;
+	width: 100%;
+}
+
+#container {
+	height: 800px;
+}
+
+#search-container {
+	margin-right: 80px;
+}
+
+#search-container input {
+	font-size: 11px;
+	padding: 5px 10px;
+	width: 20%;
+}
+
+#social-search-container img {
+	width: 25px;
+}
+
+#top-menu li a {
+	color: #383838;
+	padding: 3px 10px;
+}
+
+#photos-container {
+	border-top: 3px solid darkgray;
+	background: #e8e9eb;
+	height: 100%;
+}
+
+#photos-container-page {
+	border-top: 3px solid darkgray;
+	background: #e8e9eb;
+	padding-left: 15px;
+	height: 100%;
+}
+
+#movies-container {
+	border-top: 3px solid darkgray;
+	background: #5e5e5e;
+	height: 100%;
+}
+
+#movies-container-page {
+	background: #5e5e5e;
+	border-top: 3px solid darkgray;
+	height: 800px;
+}
+
+#photos-column-menu {
+	border-top: 3px solid darkgray;
+	background: #cccdce;
+	height: 800px;
+}
+
+#photos-column-menu a, #videos-column-menu a {
+	color: #5e5e5e;
+	line-height: 2;
+}
+
+#company-container {
+	margin-top: 30px;
+	padding: 15px;
+}
+
+/******************** .CLASSES. ********************/
+/***************************************************/
+
+.main-pic-home {
+	height: 275px;
+}
+
+.border {
+	border: 1px dashed lightgray;
+}
+
+.icon-menu-movies {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.icon-menu-photos {
+	margin-bottom: 55px;
+	margin-top: 43px;
+}
+
+.icon-menu-movies a {
+	color: white;
+}
+
+.icon-menu-photos a {
+	color: #5e5e5e;
+}
+
+
+.icon-menu-movies span {
+	margin-right: 20px;
+}
+
+.icon-menu-photos span {
+	margin-left: 20px;
+}
+
+.font-w {
+	color: white;
+}
+
+.font-ddgray {
+	font: #5e5e5e;
+}
+
+.font-dgray {
+	color: #9C9C9C !important;
+}
+
+.bg-dgray {
+	color: #5e5e5e
+}
+
+.border-dgray {
+	border-color: #5e5e5e;
+}
+
+.border-w {
+	border-color: white;
+}
+
+
+.thumbs-container {
+	margin-top: 10px;
+}
+
+.small-img {
+	width: 150px;
+}
+
+.med-img {
+	width: 450px;
+}
+
+.img-gallery-thum {
+	width: 100%;
+	height: 200px;
+}
+
+.thumbs-container-gallery img {
+	float: left;
+	padding: 1px;
+}
+
+.thumbs-container-gallery-v img {
+	float: left;
+	padding: 3px;
+}
+
+.thumbs-container a:first-child img {
+	margin: 0;
+}
+
+.footer-movies, .footer-photos {
+	font-size: 12px;
+	padding-right: 15px;
+}
+
+.footer-photos {
+	margin-left: 15px;
+}
+
+.footer-videos {
+	margin-top: 30px;
+}
